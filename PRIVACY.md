@@ -1,1 +1,2 @@
 # PRIVACY
+This application does not collect, store, or share personal user data. It solely uses the Pinterest API to fetch images upon user request
